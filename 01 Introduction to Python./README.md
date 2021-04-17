@@ -27,3 +27,7 @@ The Course is divied into 4 sections as follows:
 - **Numpy**
 
 ![](https://github.com/Bluelord/DataCamp_Courses/blob/a97f9f3aa439f6be64c1f5f0a5fe224a4bfc33c0/Images/01_Numpy.JPG)
+
+
+
+
