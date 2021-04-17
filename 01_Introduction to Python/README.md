@@ -13,5 +13,6 @@ and helpful data science tools to begin conducting your own analyses.
 The Course is divied into 4 sections as follows:
 
 - **Python Basics**
-![]{https://github.com/Bluelord/DataCamp_Courses/blob/e1948a6ce32d1c104a4d209546183263edc36eb5/Images/01_Python_Basic.JPG}
+- 
+![](https://github.com/Bluelord/DataCamp_Courses/blob/e1948a6ce32d1c104a4d209546183263edc36eb5/Images/01_Python_Basic.JPG)
 
