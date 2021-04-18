@@ -30,7 +30,7 @@ The Course is divied into 4 sections as follows:
 
 - **Certifiicate**
 
-![](https://github.com/Bluelord/DataCamp_Courses/blob/25bc8e8e6bbcbc0ae440cd1478e5d6096b3ddde2/01%20Introduction%20to%20Python./Introduction%20to%20Python.pdf)
+![Certifiicate](https://github.com/Bluelord/DataCamp_Courses/blob/25bc8e8e6bbcbc0ae440cd1478e5d6096b3ddde2/01%20Introduction%20to%20Python./Introduction%20to%20Python.pdf)
 
 
 
