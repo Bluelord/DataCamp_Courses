@@ -3,6 +3,8 @@
 ## DataCamp_courses
 
 In this repository contains  DataCamp courses slides, excercise codes and certificates earned for each courses, skill track and carrer.
+The code provided are in .ipynb, the dataset used in each of the course are available on the course folder, is is also available
+DataCamp course page too.
 
 - ### Skill Tracks
   - #### **Python Fundamentals:**
