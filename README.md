@@ -2,8 +2,13 @@
 
 ## DataCamp_courses
 
-In this repository contains  DataCamp courses slides, excercise codes and certificates earned for each courses, skill track and carrer.
-The code provided are in .ipynb, the dataset used in each of the course are available on the course folder, is is also available
+DataCamp is the leading online platform designed to teach modern professionals the data skills
+they need at their own pace. From non-coding essentials to data science and machine learning, 
+all taught by leading experts in the field. DataCamp Enterprise gives you the power to upskill 
+everyone on your team to make better data-driven decisions.
+
+Repository contains DataCamp courses slides, excercise codes and certificates earned for courses, skill tracks and career tracks.
+The code are in .ipynb format and the dataset for each of the course are available in its folder, it is also available
 DataCamp course page too.
 
 - ### Skill Tracks
