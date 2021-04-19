@@ -8,8 +8,8 @@ all taught by leading experts in the field. DataCamp Enterprise gives you the po
 everyone on your team to make better data-driven decisions.
 
 Repository contains DataCamp courses slides, excercise codes and certificates earned for courses, skill tracks and career tracks.
-The code are in .ipynb format and the dataset for each of the course are available in its folder, it is also available
-DataCamp course page too.
+The code are in .ipynb format and the dataset used in perticular course are avalable
+in that courses folder, the dataset can also be found in DataCamp course page too.
 
 - ### Skill Tracks
   - #### **Python Fundamentals:**
