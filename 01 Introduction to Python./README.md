@@ -10,6 +10,10 @@ Unlike other Python tutorials, this course focuses on Python specifically for da
 In our Introduction to Python course, you’ll learn about powerful ways to store and manipulate data,
 and helpful data science tools to begin conducting your own analyses.
 
+The Course instructor for this course is [Hugo Bowne-Anderson](https://www.datacamp.com/instructors/hugobowne). 
+He is a data scientist, educator, writer and podcaster at DataCamp. His main interests are promoting data & AI literacy,
+helping to spread data skills through organizations and society and doing amateur stand up comedy in NYC.
+
 The Course is divied into 4 sections as follows:
 - **Python Basics**
 
