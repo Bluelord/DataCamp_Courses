@@ -7,9 +7,8 @@ they need at their own pace. From non-coding essentials to data science and mach
 all taught by leading experts in the field. DataCamp Enterprise gives you the power to upskill 
 everyone on your team to make better data-driven decisions.
 
-Repository contains DataCamp courses slides, excercise codes and certificates earned for courses, skill tracks and career tracks.
-The code are in .ipynb format and the dataset used in perticular course are avalable
-in that courses folder, the dataset can also be found in DataCamp course page too.
+Repository contains DataCamp courses slides, excercise codes  notebook(.ipynb) and certificates earned for courses, skill tracks and career tracks.
+The dataset used in perticular course are avalable in that courses folder, the dataset can also be found in DataCamp course page too.
 
 - ### Skill Tracks
   - #### **Python Fundamentals:**
