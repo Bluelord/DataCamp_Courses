@@ -13,7 +13,7 @@ And we'll wrap up each chapter by using your new skills to write functions that 
 He is a data scientist, educator, writer and podcaster at DataCamp. His main interests are promoting data 
 & AI literacy, helping to spread data skills through organizations and society and doing amateur stand up comedy in NYC.
 
-The Course is divied into 5 sections as follows:
+The Course is divied into 3 sections as follows:
 
 ![WriteYourOwn_Function](https://github.com/Bluelord/DataCamp_Courses/blob/ea3f8812372177ac201744fcf14b20ead5f5e50c/Images/03_WriteYourOwn_Function.JPG)
 
