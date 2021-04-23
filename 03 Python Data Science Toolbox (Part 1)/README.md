@@ -15,8 +15,8 @@ He is a data scientist, educator, writer and podcaster at DataCamp. His main int
 
 The Course is divied into 5 sections as follows:
 
-![WriteYourOwn_Function]()
+![WriteYourOwn_Function](https://github.com/Bluelord/DataCamp_Courses/blob/ea3f8812372177ac201744fcf14b20ead5f5e50c/Images/03_WriteYourOwn_Function.JPG)
 
-![Defaultarg_variable_lenArg_scope]()
+![Defaultarg_variable_lenArg_scope](https://github.com/Bluelord/DataCamp_Courses/blob/ea3f8812372177ac201744fcf14b20ead5f5e50c/Images/03_Defaultarg_variable_lenArg_scope.JPG)
 
-![LambdaFunction_ErrorHandling]()
+![LambdaFunction_ErrorHandling](https://github.com/Bluelord/DataCamp_Courses/blob/ea3f8812372177ac201744fcf14b20ead5f5e50c/Images/03_LambdaFunction_ErrorHandling.JPG)
