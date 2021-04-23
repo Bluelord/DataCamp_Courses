@@ -12,7 +12,7 @@ The dataset used in perticular course are avalable in that courses folder, the d
 
 - ### Skill Tracks
   - #### **Python Fundamentals:**
-     - [Introduction to Python](https://github.com/Bluelord/DataCamp_Courses/blob/e0865c16cc033631e6130a97c89ea2d74e28bb54/01%20Introduction%20to%20Python./README.md)
+     - [Introduction to Python](https://github.com/Bluelord/DataCamp_Courses/blob/11596ebfce5346f83afd7b8281f68831946aa065/01%20Introduction%20to%20Python./README.md)
      - [Intermediate Python](https://github.com/Bluelord/DataCamp_Courses/blob/46fa1bd226b9163de9903bf6bef1a5a0c59bef3e/02%20Intermediate%20Python/README.md)
      - [Python Data Science Toolbox (Part 1)](https://github.com/Bluelord/DataCamp_Courses/blob/87ab9b38710b259d94d29d57a2ed3840169285be/03%20Python%20Data%20Science%20Toolbox%20(Part%201)/README.md)
     - [Python Data Science Toolbox (Part 2)](https://github.com/Bluelord/DataCamp_Courses/blob/fcc75301a371fbd831934c0afc3c3b7dc2da04f4/04%20Python%20Data%20Science%20Toolbox%20(Part%202)/README.md)
