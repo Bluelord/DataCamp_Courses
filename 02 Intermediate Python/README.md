@@ -15,12 +15,12 @@ if you may have forgotten and if you need a quick refresher, you can look at the
 
 The Course is divied into 5 sections as follows:
 
-![Matplotlib]()
+![Matplotlib](https://github.com/Bluelord/DataCamp_Courses/blob/129b2e21eb97b7dc02d15a32fe606240a2aec03f/Images/02_Matplotlib.JPG)
 
-![Dictionaries & Pandas]()
+![Dictionaries & Pandas](https://github.com/Bluelord/DataCamp_Courses/blob/129b2e21eb97b7dc02d15a32fe606240a2aec03f/Images/02_Dictionaries%20_Pandas.JPG)
 
-![Logic, Control Flow and Filtering]()
+![Logic, Control Flow and Filtering](https://github.com/Bluelord/DataCamp_Courses/blob/129b2e21eb97b7dc02d15a32fe606240a2aec03f/Images/02_Logic_ControlFlow_Filtering.JPG)
 
-![Loops]()
+![Loops](https://github.com/Bluelord/DataCamp_Courses/blob/129b2e21eb97b7dc02d15a32fe606240a2aec03f/Images/02_Loops.JPG)
 
-![Case Study: Hacker Statistics]()
+![Case Study: Hacker Statistics](https://github.com/Bluelord/DataCamp_Courses/blob/129b2e21eb97b7dc02d15a32fe606240a2aec03f/Images/02_CaseStudy_HackerStatistics.JPG)
