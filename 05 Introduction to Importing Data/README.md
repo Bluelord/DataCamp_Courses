@@ -15,8 +15,8 @@ organizations and society and doing amateur stand up comedy in NYC.
 
 This Course contains are devided into 3 chapeters, as followed:
 
-![]()
+![](https://github.com/Bluelord/DataCamp_Courses/blob/d181a2a21b47901b3d35291973407313580e6986/Images/05_Intro_&_Flatfile.JPG)
 
-![]()
+![](https://github.com/Bluelord/DataCamp_Courses/blob/d181a2a21b47901b3d35291973407313580e6986/Images/05_Importing_data_&_other.JPG)
 
-![]()
+![](https://github.com/Bluelord/DataCamp_Courses/blob/d181a2a21b47901b3d35291973407313580e6986/Images/05_Woring_relation_databases.JPG)
