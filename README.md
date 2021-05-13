@@ -19,5 +19,5 @@ The dataset used in perticular course are avalable in that courses folder, the d
 
   - #### **Importing & Cleaning Data**
     - [Introduction to Importing Data](https://github.com/Bluelord/DataCamp_Courses/blob/dbb57a5946a0be579ca3bf9d23b8518dd5763951/05%20Introduction%20to%20Importing%20Data/README.md)
-    - [Intermediate Importing Data]()
+    - [Intermediate Importing Data](https://github.com/Bluelord/DataCamp_Courses/blob/05c248379110dd2633cea633f208128d702a0131/06%20Intermediate%20Importing%20Data/README.md)
 
