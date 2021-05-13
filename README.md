@@ -18,5 +18,6 @@ The dataset used in perticular course are avalable in that courses folder, the d
     - [Python Data Science Toolbox (Part 2)](https://github.com/Bluelord/DataCamp_Courses/blob/23c0d18054d73b42784e81c10af898b26b600212/04%20Python%20Data%20Science%20Toolbox%20(Part%202)/README.md)
 
   - #### **Importing & Cleaning Data**
-    - [Introduction to Importing Data]
+    - [Introduction to Importing Data](https://github.com/Bluelord/DataCamp_Courses/blob/dbb57a5946a0be579ca3bf9d23b8518dd5763951/05%20Introduction%20to%20Importing%20Data/README.md)
+    - [Intermediate Importing Data]()
 
