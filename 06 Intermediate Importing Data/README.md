@@ -17,8 +17,8 @@ helping to spread data skills through organizations and society and doing amateu
 
 The Courses is devided into 3 chapters, as followed:
 
-![]()
+![](https://github.com/Bluelord/DataCamp_Courses/blob/2ec8820b4cb5eb734c76163d73d126d63a675f2d/Images/06_Importing_data_internet.JPG)
 
-![]()
+![](https://github.com/Bluelord/DataCamp_Courses/blob/2ec8820b4cb5eb734c76163d73d126d63a675f2d/Images/06_interacting_API_import.JPG)
 
-![]()
+![](https://github.com/Bluelord/DataCamp_Courses/blob/2ec8820b4cb5eb734c76163d73d126d63a675f2d/Images/06_Diving_deep_twitter_API.JPG)
